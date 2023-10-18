@@ -1,5 +1,9 @@
-<h1 align="center">Hello there, I'm Dawid Burcon</h1>
-<h3 align="center">I'm a ambitious student with a passion for programming and technology. I aim to kickstart my professional career in the IT industry.</h3>
+<h1 align="center">
+  Hello there, I'm Dawid Burcon
+</h1>
+<h3 align="center">
+  I'm Silesian University of Technology student with a passion for programming. I aim to kickstart my professional career in the IT industry. My passion lies in constantly learning new things and developing my existing skills. I am an enthusiastic programmer, with a particular focus on Python, although I am well-versed in various other programming languages. I'm ready to embrace new challenges and I'm confident that I can be a significant asset to the team. As someone who's passionate about learning, I'm always open to acquiring new skills and contributing to the company's growth. I'm thrilled about the chance to be a part of ambitious projects and advance my professional journey.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
