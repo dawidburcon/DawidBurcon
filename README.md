@@ -1,16 +1,12 @@
 <h1>
-  Hello there, I'm Dawid Burcon
+  <p>Hello there 🔥</p>
+  I'm Dawid Burcon
 </h1>
 <h3>
   I'm Silesian University of Technology student with a passion for programming. I aim to kickstart my professional career in the IT industry. My passion lies in constantly learning new things and developing my existing skills. I am an enthusiastic programmer, with a particular focus on Python, although I am well-versed in various other programming languages. I'm ready to embrace new challenges and I'm confident that I can be a significant asset to the team. As someone who's passionate about learning, I'm always open to acquiring new skills and contributing to the company's growth. I'm thrilled about the chance to be a part of ambitious projects and advance my professional journey.
 </h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/dawidburcon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/dawidburcon" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
@@ -27,5 +23,7 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
   </a> 
 </p>
-
+<h3>
+    Scores & Stats
+</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawidburcon&" alt="dawidburcon" /></p>
