@@ -3,7 +3,7 @@
   I'm Dawid Burcon
 </h1>
 <h3>
-  I'm Mechatronics Engineer with a passion for programming. My passion lies in constantly learning new things and developing my existing skills. I am an enthusiastic programmer, with a particular focus on Python, although I am well-versed in various other programming languages. I'm ready to embrace new challenges and I'm confident that I can be a significant asset to the team. As someone who's passionate about learning, I'm always open to acquiring new skills and contributing to the company's growth.
+  I'm Mechatronics Engineer with a passion for programming. My passion lies in constantly learning new things and developing my existing skills. I am an enthusiastic programmer, with a particular focus on Python, although I am well-versed in various other programming languages. I'm ready to embrace new challenges and I'm confident that I can be a significant asset to the team.
 </h3>
 
 <h3 align="left">Languages & Tools:</h3>
