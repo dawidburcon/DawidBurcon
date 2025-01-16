@@ -3,7 +3,7 @@
   I'm Dawid Burcon
 </h1>
 <h3>
-  Mechatronics Engineer | Python Developer
+  <p>Mechatronics Engineer | Python Developer |</p>
   I love designing new things, building them, and watching them come alive.
 </h3>
 ###
