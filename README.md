@@ -2,7 +2,7 @@
 
 **A Mechatronics Engineer who landed in the world of Python.**
 
-**What do I build daily?** I create scalable **RTLS (Real-Time Location Systems)** backends, leveraging **Python, FastAPI, and Docker/CI/CD** to handle data (telemetry, actions, communication). I enjoy it when the backend interacts smoothly with the physical world (Embedded, IoT) and performs ultra-fast (AsyncIO).
+**What do I build daily?** I create scalable **RTLS (Real-Time Location Systems)** backends, leveraging **Python, FastAPI, and Docker/CI/CD** to handle data (telemetry, actions, communication). I enjoy it when the backend interacts smoothly with the physical world and performs ultra-fast.
 
 **Technologies I feel most comfortable with:**
 
@@ -10,7 +10,7 @@
     
 - **DevOps/Monitoring:** Docker , GitLab CI , Grafana, Loki, Prometheus , Linux.
     
-- **Data & Hardware:** PostgreSQL , InfluxDB , Raspberry Pi , Arduino*.
+- **Data & Hardware:** PostgreSQL , InfluxDB , Raspberry Pi , Arduino.
     
 
 **What am I passionate about outside of work?**
