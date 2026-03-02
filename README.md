@@ -1,6 +1,6 @@
 ## Hello! I'm Dawid 🔥
 
-**A Mechatronics Engineer who landed in the world of Python.**
+**A Mechatronics Engineer who landed in the world of Software.**
 
 **What do I build daily?** I create scalable **RTLS (Real-Time Location Systems)** backends, leveraging **Python, FastAPI, and Docker/CI/CD** to handle data (telemetry, actions, communication). I enjoy it when the backend interacts smoothly with the physical world and performs ultra-fast.
 
